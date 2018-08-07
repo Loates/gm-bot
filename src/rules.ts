@@ -177,7 +177,7 @@ export function loadRules() {
       true
     ),
     RuleFactory.createReplyRule(
-      ['inversekinematics'],
+      ['inversekinematics','window'],
       '<@227032791013916672>'
     )
   ];
